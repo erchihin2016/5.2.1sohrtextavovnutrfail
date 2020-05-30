@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">5.2.1sohrtextavovnutrfail</string>
+    <string name="registration">reg</string>
+    <string name="file_provider_authority">prov</string>
+    <string name="parol">Введите пароль</string>
+    <string name="loginparol">Введите логин и пароль</string>
+    <string name="login">Введите логин</string>
+    <string name="saved">Логин и пароль сохранены</string>
+    <string name="voshli">Вы вошли. Поздравляем!</string>
+    <string name="nepr">Неправильный логин или пароль</string>
+    <string name="here">Here are some files.</string>
+    <string name="nofiles">Нет файлов</string>
+    <string name="password">pas</string>
+</resources>
